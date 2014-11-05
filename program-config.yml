@@ -1,7 +1,10 @@
-title: Sample Program
+title: How to Contribute to SkilledUp Academy Programs
 version: 0.0.1
-description: A sample program
-price: 0
+description:
+  Learn how you can improve the quality of SkilledUp Academy's Programs, Challenges, and Activities, by becoming part of the
+  discussion.  Open issues, propose solutions, improvements and more!
+price: 200
 start_date:
 end_date:
-hours_per_week:
+hours_per_week: 2
+weeks: 1
